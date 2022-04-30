@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SAURABH7JAGDALE
+- 👋 Hi, I’m Saurabh
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Tableau
 - 📫 How to reach me saurabhjagdale154@gmail.com
